@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Lukman Nugraha (lukmanblack60)
+# 👋 Halo, Saya Lukman Nugraha 
 
 Saya adalah **programmer pemula** sekaligus **kreator multimedia** yang tertarik di bidang:
 - 🎵 Produksi musik dengan FL Studio
